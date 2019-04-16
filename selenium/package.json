@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chromedriver": "^2.46.0",
+    "mocha": "^6.1.2",
+    "selenium-standalone": "^6.16.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
